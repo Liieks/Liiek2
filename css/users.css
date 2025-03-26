@@ -6,7 +6,7 @@ body {
 }
 
 
-/* .background {
+.background {
     position: absolute;
     top: 0;
     left: 0;
@@ -14,7 +14,7 @@ body {
     height: 100vh;
     background-size: cover;
     object-fit: cover;
-} */
+}
 
 /* Estilos base para o container */
 .container {
@@ -770,3 +770,5 @@ body {
     background-color: #1db954; /* Cor verde do Spotify, por exemplo */
     transition: width 0.1s ease;
 }
+
+
